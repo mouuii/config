@@ -1,0 +1,313 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/Users/z/
+	..
+1565491717
+'a
+	/Users/z/Desktop/test/test1
+	..
+1565492140
+'b
+	/Users/z/bin/
+	..
+1565491717
+'h
+	/Users/z/
+	..
+1565491717
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/Users/z/Company
+	..
+0
+d/Users/z/Desktop/test
+	main.go
+2
+d/Users/z/Desktop
+	..
+0
+d/Users/z
+	Desktop
+3
+d/Users
+	z
+2
+d/
+	Users
+4
+d/Users
+	z
+2
+d/Users/z
+	Gomod
+6
+d/Users/z/Gomod
+	..
+0
+d/Users/z
+	Gomod
+6
+d/Users/z/Gomod
+	..
+0
+d/Users/z
+	Desktop
+3
+d/Users/z/Desktop
+	test
+1
+d/Users/z/Desktop/test
+	main
+2
+d/Users/z/Desktop/test/main
+	..
+0
+d/Users/z/Desktop/test
+	main
+2
+d/Users/z/Desktop/test/main
+	..
+0
+d/Users/z/Desktop/test
+	main
+2
+d/Users/z/Desktop
+	test
+1
+d/Users/z
+	Desktop
+3
+d/Users/z/Desktop
+	test
+1
+d/Users/z/Desktop/test
+	main
+2
+d/Users/z/Desktop/test/main
+	..
+0
+d/Users/z/Desktop/test
+	main
+2
+d/Users/z/Desktop/test/main
+	..
+0
+d/Users/z/Desktop/test
+	1
+1
+d/Users/z/Desktop/test/1
+	xxx
+1
+d/Users/z/Desktop/test/1/xxx
+	..
+0
+d/Users/z/Desktop/test/1
+	..
+0
+d/Users/z/Desktop/test
+	1
+1
+d/Users/z/Desktop/test/1
+	..
+0
+d/Users/z/Desktop/test
+	1
+1
+d
+
+# Right window history (oldest to newest):
+D/Users/z/Desktop/test
+	..
+0
+D/Users/z/Desktop
+	test
+1
+D/Users/z/Desktop/test
+	..
+0
+D/Users/z/Desktop
+	test
+1
+D/Users/z/Desktop/test
+	..
+0
+D/Users/z/Desktop
+	..
+0
+D/Users/z
+	..
+0
+D/Users
+	..
+0
+D/
+	Users
+4
+D/Users
+	z
+2
+D/Users/z
+	Desktop
+3
+D/Users/z/Desktop
+	test
+1
+D/Users/z/Desktop/test
+	test1
+1
+D/Users/z/Desktop/test/test1
+	..
+0
+D/Users/z/Desktop/test
+	test1
+1
+D/Users/z/Desktop/test/test1
+	..
+0
+D/Users/z/Desktop/test
+	..
+0
+D/Users/z/Desktop
+	test
+1
+D/Users/z/Desktop/test
+	..
+0
+D/Users/z/Desktop
+	test
+1
+D/Users/z/Desktop/test
+	test1
+1
+D/Users/z/Desktop/test/test1
+	..
+0
+D/Users/z/Desktop/test
+	main.go
+2
+D/Users/z/Desktop
+	test
+1
+D/Users/z
+	Desktop
+3
+D/Users
+	z
+2
+D/
+	Users
+4
+D/Users
+	z
+2
+D/Users/z
+	Gomod
+6
+D/Users/z/Gomod
+	..
+0
+D/Users/z
+	Company
+2
+D/Users/z/Company
+	..
+0
+D/Users/z
+	Desktop
+3
+D/Users/z/Desktop
+	test
+1
+D/Users/z/Desktop/test
+	..
+0
+D/Users/z/Desktop
+	test
+1
+D/Users/z/Desktop/test
+	..
+0
+D/Users/z/Desktop
+	..
+0
+D/Users/z
+	Desktop
+3
+D/Users
+	z
+2
+D/
+	Users
+4
+D/Users
+	z
+2
+D/Users/z
+	Gomod
+6
+D/Users/z/Gomod
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:vim
+:vi test1
+:exit
+:cd test
+:vi main.go
+:mkdir xxx
+:%s/test1//
+:%s/test1/1/
+:vi .
+:vi
+:touch main.go
+:q
+
+# Search history (oldest to newest):
+/test1
+
+# Prompt history (oldest to newest):
+ptest1
+pScreen Shot 2019-08-11 at 2.50.04 PM.png
+pScreen Shot 2019-08-11 at 2.50.04.png
+pmain
+pScreen Shot 2019-08-11 at 2.50.04.asad.png
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/Users/z/Desktop/test/Screen Shot 2019-08-11 at 2.50.04.asad.png
+""/Users/z/Desktop/test/Screen Shot 2019-08-11 at 2.50.04.png
+""/Users/z/Desktop/test/mai1.go
+""/Users/z/Desktop/test/main.go
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/Users/z/.local/share/vifm/Trash/000_Screen Shot 2019-08-11 at 2.50.04 PM.png
+	/Users/z/Desktop/test/Screen Shot 2019-08-11 at 2.50.04 PM.png
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
